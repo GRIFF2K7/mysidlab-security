@@ -1,8 +1,8 @@
 ---
 users:
-  - name: user1
-    aws_groups: "sacramento, fresno, indio"
-  - name: user2
-    aws_groups: "losangeles, sanfransisco, napa"
-  - name: user3
-    aws_groups: "palmsprings, indio, sandiego"
+  - name: deleteme-griff-user1
+    aws_groups: "sacramento-griff-deleteme, fresno-griff-deleteme, indio-griff-deleteme"
+  - name: deleteme-griff-user2
+    aws_groups: "losangeles-griff-deleteme, sanfransisco-griff-deleteme, napa-griff-deleteme"
+  - name: deleteme-griff-user3
+    aws_groups: "palmsprings-griff-deleteme, indio-griff-deleteme, sandiego-griff-deleteme"
